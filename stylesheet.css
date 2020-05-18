@@ -1,0 +1,73 @@
+body {
+    font-family: 'Minecraft-2';
+	background-image: url("https://media-curse.cursecdn.com/attachments/244/509/f6b303c6221c98ed162f803554b14ad9.png");
+	background-repeat: repeat-x repeat-y;
+	background-attachment: fixed;
+    background-size: 10%;
+}
+img.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100.75vw;
+  margin-left: -2vw;
+  margin-top: -2vw;
+height: auto;
+}
+h1 {
+    color: white;
+    text-shadow: 1px 1px 10px rgba(0,0,0,2.10);
+    font-family: 'Minecraft 2';
+    font-size: 3em; 
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    transition: all .5s ease;
+}
+h2 {
+    color: red;
+    text-shadow: 1px 1px 10px rgba(0,0,0,2.10);
+    font-family: 'Minecraft 2';
+    font-size: 3em; 
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    transition: all .5s ease;
+}
+#divone{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/dc/3b/d0/dc3bd09dcb6dca6228fc2d350f861de3.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-attachment: fixed;
+  background-size: 25%;
+  font-family: 'Minecraft 2';
+  border: 2px double white;
+  margin-left: 80px;
+  margin-right: 150px;
+}
+p {
+    color: ghostwhite;
+    text-shadow: 1px 1px 10px rgba(0,0,0,2.10);
+    font-family: "Minecraft 2";
+}
+
+#divtwo{
+  background-image: url("https://i.pinimg.com/474x/04/c5/9f/04c59f3e8a09ec5afca644fb8deeaef0.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-attachment: fixed;
+  background-size: 3%;
+  font-family: 'Minecraft 2';
+  border: 2px double white;
+  margin-left: 80px;
+  margin-right: 150px;
+}
+h1:hover { font-size: 4em; color: white; }
+
+h2:hover { font-size: 4em; color: red; }
+#divthree{
+  background-image: url("https://art.pixilart.com/7e963233f25f494.png");
+  background-repeat: repeat-x repeat-y;
+  background-attachment: fixed;
+  background-size: 2%;
+  font-family: 'Minecraft 2';
+  border: 2px double red;
+  margin-left: 80px;
+  margin-right: 150px;
+}
