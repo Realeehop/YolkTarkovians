@@ -1,9 +1,7 @@
 body {
-    font-family: 'Minecraft-2';
 	background-image: url("https://media.discordapp.net/attachments/691756935078215702/719433407339429939/2020-06-08_00.03.43.png");
-	background-repeat: repeat-x repeat-y;
 	background-attachment: fixed;
-    background-size: 100%;
+    background-size: 130%;
 }
 img.sticky {
   position: -webkit-sticky;
@@ -64,19 +62,19 @@ h2:hover { font-size: 4em; color: red; }
 .button {
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: -3px 3px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+  font-size: 32px;
+  margin: -20px 60px;
   cursor: pointer;
 }
 
 .button1 
 {background-color: #696969;
-border: 1px solid black;
+border: 3px solid black;
 }
 .button1:hover {
-border: 1px solid yellow;	
+border: 2px solid yellow;	
 }
