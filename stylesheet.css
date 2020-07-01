@@ -3,7 +3,7 @@ body {
 	background-image: url("https://media.discordapp.net/attachments/691756935078215702/719433407339429939/2020-06-08_00.03.43.png");
 	background-repeat: repeat-x repeat-y;
 	background-attachment: fixed;
-    background-size: 10%;
+    background-size: 100%;
 }
 img.sticky {
   position: -webkit-sticky;
@@ -19,18 +19,18 @@ h1 {
     text-shadow: 1px 1px 10px rgba(0,0,0,2.10);
     font-family: 'Minecraft 2';
     font-size: 3em; 
-    -webkit-transition: all .5s ease;
-    -moz-transition: all .5s ease;
-    transition: all .5s ease;
+    -webkit-transition: all .9s ease;
+    -moz-transition: all .9s ease;
+    transition: all .9s ease;
 }
 h2 {
     color: red;
     text-shadow: 1px 1px 10px rgba(0,0,0,2.10);
     font-family: 'Minecraft 2';
     font-size: 3em; 
-    -webkit-transition: all .5s ease;
-    -moz-transition: all .5s ease;
-    transition: all .5s ease;
+    -webkit-transition: all .9s ease;
+    -moz-transition: all .9s ease;
+    transition: all .9s ease;
 }
 #divmainhead{
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/dc/3b/d0/dc3bd09dcb6dca6228fc2d350f861de3.jpg");
