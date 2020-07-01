@@ -38,9 +38,9 @@ h2 {
   background-attachment: fixed;
   background-size: 50%;
   font-family: 'Minecraft 2';
-  border: 5px double white;
-  margin-left: 30px;
-  margin-right: 100px;
+  border: 1px solid white;
+  margin-left: 0px;
+  margin-right: 70px;
 }
 
 #divone{
@@ -50,8 +50,8 @@ h2 {
   background-size: 25%;
   font-family: 'Minecraft 2';
   border: 2px double white;
-  margin-left: 30px;
-  margin-right: 100px;
+  margin-left: 0px;
+  margin-right: 70px;
 }
 p {
     color: ghostwhite;
@@ -65,9 +65,9 @@ p {
   background-attachment: fixed;
   background-size: 3%;
   font-family: 'Minecraft 2';
-  border: 2px double white;
-  margin-left: 30px;
-  margin-right: 100px;
+  border: 2px solid white;
+  margin-left: 0px;
+  margin-right: 70px;
 }
 h1:hover { font-size: 4em; color: white; }
 
@@ -78,7 +78,26 @@ h2:hover { font-size: 4em; color: red; }
   background-attachment: fixed;
   background-size: 2%;
   font-family: 'Minecraft 2';
-  border: 2px double red;
-  margin-left: 30px;
-  margin-right: 100px;
+  border: 2px solid red;
+  margin-left: 0px;
+  margin-right: 70px;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 
+{background-color: #696969;
+border: 1px solid black;
+}
+.button1:hover {
+border: 1px solid yellow;	
 }
