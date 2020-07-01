@@ -39,8 +39,8 @@ h2 {
   background-size: 50%;
   font-family: 'Minecraft 2';
   border: 5px double white;
-  margin-left: 80px;
-  margin-right: 150px;
+  margin-left: 30px;
+  margin-right: 100px;
 }
 
 #divone{
@@ -50,8 +50,8 @@ h2 {
   background-size: 25%;
   font-family: 'Minecraft 2';
   border: 2px double white;
-  margin-left: 80px;
-  margin-right: 150px;
+  margin-left: 30px;
+  margin-right: 100px;
 }
 p {
     color: ghostwhite;
@@ -66,8 +66,8 @@ p {
   background-size: 3%;
   font-family: 'Minecraft 2';
   border: 2px double white;
-  margin-left: 80px;
-  margin-right: 150px;
+  margin-left: 30px;
+  margin-right: 100px;
 }
 h1:hover { font-size: 4em; color: white; }
 
@@ -79,6 +79,6 @@ h2:hover { font-size: 4em; color: red; }
   background-size: 2%;
   font-family: 'Minecraft 2';
   border: 2px double red;
-  margin-left: 80px;
-  margin-right: 150px;
+  margin-left: 30px;
+  margin-right: 100px;
 }
