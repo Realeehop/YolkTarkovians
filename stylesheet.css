@@ -62,6 +62,7 @@ h2:hover { font-size: 4em; color: red; }
 .button {
   border: none;
   color: white;
+  transition-duration: 0.4s;
   padding: -3px 3px;
   text-align: center;
   text-decoration: none;
@@ -76,5 +77,6 @@ h2:hover { font-size: 4em; color: red; }
 border: 3px solid black;
 }
 .button1:hover {
-border: 2px solid yellow;	
+border: 2px solid yellow;
+background-color: #808080;
 }
