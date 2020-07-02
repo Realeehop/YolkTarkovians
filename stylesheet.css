@@ -32,6 +32,17 @@ h2 {
   background-attachment: fixed;
   margin-left: 0px;
   margin-right: 70px;
+  min-width: 400px;
+  max-width: 600px;
+  height: 100%;
+  grid-column: 2 / 3;
+  display: grid;
+  -webkit-box-pack: center;
+  justify-content: center;
+  grid-template-rows: 1fr 0.25fr 1fr 0.125fr;
+}
+
+
 }
 
 #divone{
