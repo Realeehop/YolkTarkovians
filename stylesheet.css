@@ -86,6 +86,11 @@ h2:hover { font-size: 4em; color: red; }
   font-size: 46px;
   margin: -20px 60px;
   cursor: pointer;
+  border-top: solid #b9b9bb;
+  border-left: solid #b9b9bb;
+  border-bottom: solid #505052;
+  border-right: solid #505052;
+  font-family: "Press Start 2P", cursive;
 }
 
 .button1 
