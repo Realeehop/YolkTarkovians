@@ -25,6 +25,8 @@ h1 {
     border-bottom: solid #505052;
     border-right: solid #505052;
     font-family: "Press Start 2P", cursive;
+    -webkit-box-sizing: border-box;
+    text-shadow: 1px 1px #444444;
 }
 h2 {
     color: red;
@@ -91,13 +93,17 @@ h2:hover { font-size: 4em; color: red; }
   border-bottom: solid #505052;
   border-right: solid #505052;
   font-family: "Press Start 2P", cursive;
+  -webkit-box-sizing: border-box;
+  text-shadow: 1px 1px #444444;
 }
 
 .button1 
 {background-color: #696969;
 border: 3px solid black;
+margin: 8px;
 }
 .button1:hover {
 border: 2px solid yellow;
 background-color: #808080;
+margin: 12px;
 }
