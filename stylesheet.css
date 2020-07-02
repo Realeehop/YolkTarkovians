@@ -14,7 +14,7 @@ height: auto;
 }
 h1 {
     color: white;
-    text-shadow: 1px 1px 10px rgba(0,0,0,2.10);
+    text-shadow: 3px 3px 30px rgba(0,0,0,2.10);
     font-size: 3em; 
     -webkit-transition: all .9s ease;
     -moz-transition: all .9s ease;
@@ -63,11 +63,11 @@ h2:hover { font-size: 4em; color: red; }
   border: none;
   color: white;
   transition-duration: 0.4s;
-  padding: -3px 3px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 32px;
+  font-size: 46px;
   margin: -20px 60px;
   cursor: pointer;
 }
